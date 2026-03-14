@@ -19,6 +19,16 @@ const HeroSection = () => {
                 <Button>
                   Explore More <FiFastForward />
                 </Button>
+                <Button>
+                  Watch Video
+                  <Image 
+                    src="/images/icon-play-video.svg" 
+                    alt="icon playvideo" 
+                    width={29} 
+                    height={29} 
+                    /> 
+                </Button>
+
               </div>
           </div>
         </div>
